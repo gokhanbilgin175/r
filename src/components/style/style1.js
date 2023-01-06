@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Style1 = () => {
+  return (
+    <div>
+        <h1 style={{border:"2px solid red", backgroundColor:"blue",borderRadius:"30px"}} >REACT</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et aspernatur, repellat dolores quis molestias ipsum eum a deserunt officia, nisi id eaque? Impedit voluptatibus numquam sequi cumque est cupiditate officiis aperiam praesentium sapiente consectetur inventore harum error repudiandae culpa, fugit, fugiat nam. Facilis quis nesciunt aut sed maxime impedit, animi perspiciatis sunt explicabo eveniet omnis, ipsam deserunt consectetur magni atque. Atque, illo inventore corporis minima nemo pariatur quasi cumque cupiditate obcaecati at consequatur? Ad, blanditiis labore officiis id, similique eveniet fugiat eligendi consequuntur iste incidunt omnis inventore beatae assumenda facilis mollitia placeat fuga accusantium iure alias reiciendis voluptas odio consectetur! Optio quis, necessitatibus illum odit sed sequi doloribus officiis mollitia ut saepe repudiandae ad distinctio cumque atque cum minima eaque odio pariatur. Totam culpa temporibus reiciendis ea facere velit dignissimos! Itaque necessitatibus, harum enim expedita animi provident aperiam atque ex corrupti, iusto, eum perferendis. Voluptate, nam recusandae. Recusandae veritatis molestias placeat voluptatum asperiores quibusdam nemo? Hic ipsa eum consequuntur sequi ullam distinctio voluptatem fugit quis, sunt veniam atque porro, suscipit dolore, vitae enim soluta cumque aliquam ipsum officiis nostrum reiciendis nemo omnis commodi. Quis iure, nisi aut quos quaerat culpa est veritatis dolores nemo accusantium explicabo minus maxime nobis deserunt asperiores, laudantium ratione repellendus, quisquam eveniet! Libero maxime eum itaque debitis tenetur molestias repellendus enim impedit corporis architecto recusandae, ipsum quo earum beatae magni eos laudantium, similique voluptatem voluptas natus qui? Dolores omnis iure repudiandae tempora. Cumque iure animi numquam? Vero ex veniam harum magnam aperiam, delectus similique. Enim nostrum ratione maiores iste laborum nam. Molestias accusantium labore exercitationem, veniam numquam placeat maiores nesciunt? Est ex voluptatum cumque minus illum. Nobis, nisi facere neque similique sed possimus eveniet corrupti atque ducimus sint ea minima. Delectus quisquam quasi asperiores? Sapiente voluptatibus quod vel tempore odio? Sed, soluta accusantium! Vitae, exercitationem assumenda.</p>
+   </div>
+  )
+}
+
+export default Style1
